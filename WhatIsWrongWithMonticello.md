@@ -1,0 +1,3 @@
+There is a bit of a debate in the Smalltalk community about Monticello and it's relation to Filetree ... there is a perception that instead of using Filetree, that Monticello should have been "fixed" ...
+
+Well I am here to tell you that Filetree **is** the fixed version of Monticello.
