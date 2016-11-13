@@ -6,6 +6,10 @@ There is nothing wrong with the Monticello that implements version control for S
 
 ## Monticello Packages
 
-Monticello pacakges are based on the ideas first described by Allen Wirfs-Brock in his paper "[A Declarative Model for Defining Smalltalk Programs][1]".
+Monticello packages are based on the ideas first described by Allen Wirfs-Brock and Brian Wilkerson in their paper "[An overview of modular smalltalk'][2]" and summarized in Allen's paper "[A Declarative Model for Defining Smalltalk Programs][1]".
+
+A Monticello package is defined as a collection of class and method definitions. 
+To store a package on disk one needs only to serialize the collection of definitions to disk. 
 
 [1]: www.smalltalksystems.com/publications/_awss97/SSDCL1.HTM
+[2]: http://dl.acm.org/authorize?61095
